@@ -7,4 +7,4 @@ Hello Team 7110H,
 
 New Digital Notebook Idea. Encrypted with a Github 64 bit encryption code. Pretty Secure. I'll invite y'all if you find this nice.
 
-`https://ih1.redbubble.net/image.1083556620.2527/raf,750x1000,075,t,FFFFFF:97ab1c12de.jpg`
+`static/img/3c96abbb-eed2-4aa2-a9f8-bb80fc205721.heic`
