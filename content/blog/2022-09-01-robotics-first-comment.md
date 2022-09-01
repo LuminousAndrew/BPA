@@ -2,6 +2,7 @@
 title: Robotics First Comment
 date: 2022-09-01T15:23:40.836Z
 description: First Comment! Pretty Exited!
+image: /img/png-image.png
 ---
 Hello Team 7110H,
 
