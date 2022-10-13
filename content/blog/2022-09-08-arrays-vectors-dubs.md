@@ -1,5 +1,5 @@
 ---
-title: ARRAYS/VECTORS DUBS
+title: Arrays
 date: 2022-09-08T21:22:31.484Z
 description: EZ MONEY
 ---
