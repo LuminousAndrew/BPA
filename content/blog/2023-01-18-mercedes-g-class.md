@@ -16,3 +16,7 @@ L﻿ink to talk with Sales Representative: <https://meet.google.com/ygv-jivy-mt
 C﻿ontact Form: mailto:andrewbalson@outlook.com
 
 I﻿f you would like to purchase, contact me @ 817-513-2385.
+
+
+
+![Mercedes G-Class](/img/2018-mercedes-amg-g63-suv-white-1001x565-4-.webp "Mercedes G-Class")
